@@ -1,5 +1,5 @@
-|  Ingegneria Informatica | Fisica  |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|  Ingegneria Informatica | Fisica  | Game Design  |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Nocerino  |  Favalli |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Nocerino  |  Favalli |  Asare |   |   |   |   |   |   |   |   |   |   |   |   |
 | <>  |  <> |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | <>  |  <> |   |   |   |   |   |   |   |   |   |   |   |   |   |
