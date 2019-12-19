@@ -5,10 +5,10 @@
 
 | Marketing Management  | Music production and Sound design  | Arte digitale  | Bioinformatica  | Ingegneria meccanica |
 |---|---|---|---|---|
-|  Petracchi |   | Meleleo | Chilianu | Mafrica  |
+|  Petracchi | Bena | Meleleo | Chilianu | Mafrica  |
 |   |   |   |   |   |
 
 | Music business | Matematica | Ingegneria Matematica | Ingegneria Gestionale |  |
 |---|---|---|---|---|
-|   | Elamin  |   |  Pacecchi | Giordano  |
+| Bena | Elamin | Bona | Pacecchi | Giordano  |
 |   |   |   |   |   |
