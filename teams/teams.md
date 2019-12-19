@@ -1,5 +1,5 @@
-|  Ingegneria Informatica | Fisica  | Game Design  |   |   |   |   |   |   |   |   |   |   |   |   |
+|  Ingegneria Informatica | Fisica  | Game Design  |  Web Design |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Nocerino  |  Favalli |  Asare |   |   |   |   |   |   |   |   |   |   |   |   |
+| Nocerino  |  Favalli |  Asare | Singh Preet  |   |   |   |   |   |   |   |   |   |   |   |
 | <>  |  <> |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | <>  |  <> |   |   |   |   |   |   |   |   |   |   |   |   |   |
