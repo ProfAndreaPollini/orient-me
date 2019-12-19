@@ -1,5 +1,9 @@
-|  Ingegneria Informatica | Fisica  | Game Design  |  Web Design |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Nocerino  |  Favalli |  Asare | Singh Preet  |   |   |   |   |   |   |   |   |   |   |   |
-| <>  |  <> |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| <>  |  <> |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Ingegneria Informatica  | Fisica  | Game Design  | Web Design  | Informatica  |
+|---|---|---|---|---|
+|  Singht Lovepreet |  Favalli | Acheampong  | Singh Preet  | Nocerino  |
+|   |   |   |   |   |
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
