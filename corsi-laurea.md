@@ -6,10 +6,11 @@
 * Ingegneria gestionale
 * Marketing Management
 * Music production and Sound design
-* Artificial Intelligence
 * Arte digitale
 * Bioinformatica
 * Ingegneria meccanica
 * Music business
 * Matematica
 * Game Design
+* Azieda Digitale
+* (Artificial Intelligence)
