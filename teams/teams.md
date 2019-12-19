@@ -1,5 +1,4 @@
-| Ingegneria Informatica   |      Fisica      |  Matematica |
-|----------|:-------------:|------:|
-| Nocerino Emanuele Jonathan |  Favalli Lorenzo | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Ingegneria Informatica   |      Fisica      |  Matematica | | Informatica | | Digital design (web design) |
+|----------------------------|:----------------:|---------------:|---------------:|---------------:|
+| Nocerino Emanuele Jonathan |  Favalli Lorenzo | <nome persona> | <nome persona> | <nome persona> |
+| <nome persona>             |  <nome persona>  | <nome persona> | <nome persona> | <nome persona> |
