@@ -89,3 +89,4 @@ Facoltà di Fisica (Laurea triennale):
     Ricerca in ambito accademico
     Ricerca e sviluppo in industria 4.0
     Insegnamento
+    https://offertaformativa.unicatt.it/cdl-Curriculum_in_Fisica.pdf
