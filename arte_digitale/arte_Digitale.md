@@ -138,3 +138,101 @@ Accademia Di Belle Arti Di Verona Facoltà Nuove Tecnologie dell'Arte (Laurea Tr
     nel campo delle nuove tecnologie, sia collaborando, in rapporto ai diversi campi di applicazione, alla programmazione, progettazione 
     e attuazione degli interventi specifici delle nuove tecnologie, dalla progettazione e realizzazione di opere audiovisive 
     e multimediali interattive, nel cinema, post-produzione digitale ed effetti visivi, illustrazione ed editoria multimediale.
+
+Nuova Accademia di belle arti NABA Milano Facoltà Nuove tecnologie dell'arte (Laura Magistrale e Master):
+
+   1° anno:
+   
+      Scrittura Creativa
+      Progettazione Multimediale I
+      Culture Digitali I
+      Progettazione Multimediale II
+      Culture Digitali II
+      Audiovisivi Lineari
+      
+   2°anno:
+   
+      Applicazioni Digitali per l’arte
+      Progettazione Multimediale III
+      Estetica dei New Media
+      Cultura del Progetto
+      Progettazione Multimediale IV
+      
+   Sbocchi professionali:
+      
+      Technical e Concept artist
+      Creative coder
+      Interaction designer
+      Creative technologist
+      Esperto di intelligenza artificiale
+      Produttore creativo
+      Narratore interattivo
+      Esperto di VR e MR
+      Game designer
+      Regista di documentari cinematografici, sceneggiatore, direttore della fotografia
+ 
+Istituto Europeo di Moda (IED) Milano Corso Graphic Designer (Corso triennale e post Diploma):
+
+   1° anno:
+   
+      Storia dell'arte contemporanea
+      Storia deel disegno e della grafica d'arte
+      Metodologia della progettazione
+      Computer graphic 1
+      Elementi di grafica editoriale
+      Graphic design 1
+      Teoria della percezione e psicologia della forma
+      Semiotica dell'arte
+      
+   2°anno:
+   
+      Videografica
+      Graphic Design 2
+      Fotografia
+      Fenomenologia Delle Arti Contemporanee
+      Brand Design
+      Metodologia Progettuale Della Comunicazione Visiva
+      Sociologia Della Comunicazione
+      Storia del cinema e del video
+      Tecniche dei procedimenti a stampa
+      Tecniche di modellazione digitale - Computer 3D
+      
+   3°anno:
+   
+      Teoria e Metodo dei Mass Media
+      Graphic Design 3
+      Digital Video
+      Design Management
+      Allestimento degli Spazi Espositivi
+      Progettazione Grafica
+  
+   Sbocchi professionali:
+   
+      Graphic Designer
+      Art & Design Drection Coordinator
+      Visual Journalist
+      
+Libera Academia Belle Arti di Brescia (LABA) Corso Graphic Design:
+
+   Attività formative di base nel triennio:
+
+      Computer Graphic
+      Storia dell’arte moderna
+      Storia dell’arte contemporanea
+
+   Attività formative caratterizzanti nel triennio:
+
+      Graphic Design
+      Fotografia digitale
+      Tecniche di modellazione digitale
+      Digital video
+      Art Direction
+      
+   Sbocchi professionali:
+      
+      Art Director
+      Project Director
+      Graphic Designer
+      Animator
+      designer commerciali
+      designer professionali
