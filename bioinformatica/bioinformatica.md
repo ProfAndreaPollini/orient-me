@@ -110,8 +110,8 @@ https://www.unimib.it/ugov/degree/5358
 #### Sbocchi professionali:
     - Università ed Istituti di ricerca Biotecnologica pubblici e privati
     - Imprese Biotecnologiche
-    - Laboratori di ricerca e sviluppo e reparti di produzione industriali in particolare nell'industria farmaceutica,
-      la chimica fine, lacosmetologia, la diagnostica
+    - Laboratori di ricerca e sviluppo e reparti di produzione industriali in particolare nell'industria
+      farmaceutica, la chimica fine, lacosmetologia, la diagnostica
     - Enti proposti alla elaborazione di normative brevettuali riguardanti lo sfruttamento di prodotti e processi
       biotecnologici.
     - Laboratori di analisi e servizi
