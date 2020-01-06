@@ -1,0 +1,156 @@
+Fonte:
+https://www.disco.unimib.it/it //sito ufficiale
+
+Il Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo) dell’ Università degli Studi di Milano-Bicocca è stato costituito il 1 gennaio 1999.
+
+Obiettivo primario del DISCo è sviluppare in modo integrato attività di ricerca e di didattica di eccellenza, in modo da contribuire significativamente ai processi innovativi del sistema produttivo italiano ed europeo e al rilancio della ricerca europea nel campo delle Tecnologie per la Società dell'Informazione.
+
+-----------------------------
+
+Le attività di ricerca del Dipartimento possono essere raggruppate in cinque macroaree:
+
+Foundations of Computer Science, Computational Life Sciences and Bioinformatics 
+Software Engineering and Architecture
+Web and Information Systems 
+Intelligent sensing (Robotics, Real-Time Systems and Computer Vision) 
+Artificial Intelligence and Decision Systems 
+Per il loro svolgimento sono attivi 18 laboratori, che ospitano stagisti, laureandi e dottorandi, inseriti nei numerosi progetti di ricerca in cui i docenti sono impegnati.
+
+
+----------------------------------
+
+Il Dipartimento ha attivato un corso di Laurea Triennale ed un corso di Laurea Magistrale in Informatica, articolati al loro interno in diversi indirizzi, che consentono di orientare gli studenti verso diverse professionalità, pur mantenendo una forte unitarietà di base ed una grande flessibilità. Il Dipartimento contribuisce inoltre alla didattica del corso di Laurea Magistrale in Teoria e Tecnologia della Comunicazione, in collaborazione con la Facoltà di Psicologia e al corso di laurea in Data Science, in collaborazione con il Dipartimento di Economia, Metodi quantitativi e Strategie di impresa e il Dipartimento di Statistica e Metodi quantitativi.
+
+L’attività didattica è strutturata in modo da rendere visibile e valorizzare il ruolo propositivo e preminente che le professioni informatiche possono giocare in questo inizio di millennio. I docenti del DISCo vogliono formare non semplici programmatori, ma progettisti della società dell'informazione, capaci di dare forma, collaborando con architetti, designer, antropologi e psicologi, ad una vera e propria società della conoscenza aperta e dinamica, secondo le indicazioni della Comunità Europea. 
+
+
+------------
+
+Area del corso:  Scientifica
+Dipartimento:  DIPARTIMENTO DI INFORMATICA, SISTEMISTICA E COMUNICAZIONE
+Tipo di corso:  Laurea triennale (DM 270)
+Posti disponibili:  380
+Durata in anni: 3
+Crediti: 180
+Sede: MILANO
+Lingua: Italiano
+Modalita' didattica dell'ordinamento: Convenzionale
+
+
+------------------
+
+* = obbligatorio
+
+Anno di corso: 1
+
+ALGEBRA LINEARE E GEOMETRIA * - 8 CFU
+ALGORITMI E STRUTTURE DATI * - 8 CFU
+ANALISI MATEMATICA * - 8 CFU
+ARCHITETTURA DEGLI ELABORATORI * - 8 CFU
+FONDAMENTI DELL'INFORMATICA * - 8 CFU
+LINGUA FRANCESE - 3 CFU
+LINGUA INGLESE - 3 CFU
+LINGUA SPAGNOLA - 3 CFU
+LINGUA TEDESCA - 3 CFU
+PROGRAMMAZIONE 1 * - 8 CFU
+PROGRAMMAZIONE 2 * - 8 CFU
+TEST DI VALUTAZIONE DELLA PREPARAZIONE INIZIALE
+
+Anno di corso: 2
+ANALISI E PROGETTAZIONE DEL SOFTWARE * - 8 CFU
+BASI DI DATI * - 8 CFU
+FISICA - 8 CFU
+LINGUAGGI DI PROGRAMMAZIONE * - 8 CFU
+LINGUAGGI E COMPUTABILITA' * - 8 CFU
+METODI ALGEBRICI PER L'INFORMATICA - 8 CFU
+PROBABILITA' E STATISTICA PER L'INFORMATICA * - 8 CFU
+RETI E SISTEMI OPERATIVI * - 8 CFU
+SISTEMI DISTRIBUITI * - 8 CFU
+
+Anno di corso: 3
+ANALISI E PROGETTO DI ALGORITMI * - 8 CFU
+ATTIVITA' A SCELTA SVOLTE IN ERASMUS - 16 CFU
+ATTIVITA' A SCELTA SVOLTE IN ERASMUS - 8 CFU
+BUSINESS INTELLIGENCE PER I SERVIZI FINANZIARI - 8 CFU
+COMPLEMENTI DI BASI DI DATI - 8 CFU
+ELABORAZIONE DELLE IMMAGINI - 8 CFU
+ELEMENTI DI BIOINFORMATICA - 8 CFU
+INFORMATICA GRAFICA - 8 CFU
+INGEGNERIA DEL SOFTWARE - 8 CFU
+INTERAZIONE UOMO - MACCHINA - 8 CFU
+METODI FORMALI - 8 CFU
+METODI INFORMATICI PER LA GESTIONE AZIENDALE - 8 CFU
+PROGRAMMAZIONE C++ - 8 CFU
+PROGRAMMAZIONE DI DISPOSITIVI MOBILI - 8 CFU
+PROVA FINALE * - 4 CFU
+RICERCA OPERATIVA E PIANIFICAZIONE DELLE RISORSE * - 8 CFU
+ROBOTICA E AUTOMAZIONE - 8 CFU
+SICUREZZA ED AFFIDABILITA' - 8 CFU
+SISTEMI EMBEDDED - 8 CFU
+STAGE * - 13 CFU
+TRATTAMENTO E CODIFICA DI DATI MULTIMEDIALI - 8 CFU
+
+
+Prova finale
+La prova finale per il conseguimento del titolo di studio ha l'obiettivo di verificare il lavoro svolto e le capacità di comunicare del candidato. Essa comporta l'acquisizione di 4 CFU e consiste nella presentazione e discussione orale di una breve relazione scritta costituita dall' approfondimento personale di un argomento affrontato nell'ambito di una disciplina studiata, facendo di norma riferimento all'esperienza maturata durante il tirocinio formativo e/o di orientamento (stage), che comporta l'acquisizione di 13 CFU.
+
+
+-------------------
+Sbocchi lavorativi
+
+
+Progettista e amministratore di sistema
+funzione in un contesto di lavoro:
+Il laureato in Informatica può svolgere diverse funzioni come progettista e amministratore di sistema operando, almeno inizialmente, sulla base di specifiche ben definite da un responsabile di progetto:
+- progettazione, sviluppo, installazione e gestione di banche dati;
+- configurazione, gestione, ottimizzazione, sicurezza e recovery di sistemi informatici;
+- analisi dei requisiti utente e progettazione di banche dati e di sistemi informatici di moderata complessità;
+- coordinamento dell’attività di piccoli gruppi di progetto;
+- commercializzazione e assistenza agli utenti.
+competenze associate alla funzione:
+Le competenze principali di un progettista e amministratore di sistema sono:
+- competenze di base di tipo matematico e capacità di analizzare e modellare i problemi in modo rigoroso;
+- competenze relative alle capacità comunicative e al lavoro di gruppo;
+- competenze di base di tipo informatico, relative ai principi della programmazione, della modellazione dell’informazione e delle architetture dei sistemi informatici;
+- competenze specifiche, relative alle metodologie di analisi, progettazione e sviluppo di banche dati, alle principali tecnologie utilizzate nella realizzazione e gestione di sistemi informativi e alle problematiche di sicurezza.
+sbocchi professionali:
+Un progettista e amministratore di sistema trova sbocchi in imprese operanti nell’area dello sviluppo software e, in particolare, dei sistemi informativi. Trova sbocchi in imprese, amministrazioni e laboratori che utilizzano sistemi informatici. Trova inoltre interessanti opportunità in attività di lavoro autonomo e in iniziative imprenditoriali.
+Esempi significativi di ruoli professionali sono:
+- Programmatore
+- Analista programmatore
+- Amministratore di reti e di sistemi telematici
+- Gestore siti web
+- Gestore di basi dati
+- Tecnico commerciale
+- Sistemista
+- Specialista in sviluppo basi dati
+- Specialista in sicurezza informatica
+
+Analista e progettista di software
+funzione in un contesto di lavoro:
+Il laureato in Informatica può svolgere diverse funzioni come analista e progettista di software operando, almeno inizialmente, sulla base di specifiche ben definite da un responsabile di progetto:
+- progettazione, programmazione e testing di applicazioni software;
+- manutenzione, gestione, distribuzione e installazione di prodotti software;
+- analisi dei requisiti utente e progettazione di applicazioni di moderata complessità;
+- coordinamento dell’attività di piccoli gruppi di progetto;
+- commercializzazione e assistenza agli utenti.
+competenze associate alla funzione:
+Le competenze principali di un analista e progettista di software sono:
+- competenze di base di tipo matematico e capacità di analizzare e modellare i problemi in modo rigoroso;
+- competenze relative alle capacità comunicative e al lavoro di gruppo;
+- competenze di base di tipo informatico, relative ai principi della programmazione, della modellazione dell’informazione e dell'architetture dei sistemi informatici;
+- competenze specifiche, relative ai principali linguaggi e ambienti di programmazione, alle metodologie di sviluppo del software e alle tecnologie utilizzate in specifici ambiti applicativi.
+sbocchi professionali:
+Un analista e progettista di software trova sbocchi occupazionali in imprese operanti nell’area dello sviluppo software e, in particolare, dei servizi e delle applicazioni Web, dell’automazione, delle telecomunicazioni, delle reti, della componentistica e dei dispositivi mobili. Trova inoltre interessanti opportunità in attività di lavoro autonomo e in iniziative imprenditoriali.
+Esempi significativi di ruoli professionali sono:
+- Programmatore
+- Analista programmatore
+- Tecnico commerciale
+- Specialista integrazione e collaudo software
+- Sviluppatore di sistemi di automazione
+- Sviluppatore di sistemi gestionali
+- Sviluppatore di applicazioni mobili (Apps)
+- Sviluppatore di siti web
+- Sviluppatore di applicazioni di elaborazione immagini
+- Sviluppatore di applicazioni grafiche
+- Sviluppatore di applicazioni bionformatiche

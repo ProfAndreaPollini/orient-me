@@ -1,0 +1,271 @@
+fonte: 
+https://www.unimi.it/it/   //sito ufficiale
+
+
+Obiettivi formativi
+
+Il Corso di laurea triennale in Informatica fornisce una solida preparazione di base sulle scienze informatiche, oltre a una buona padronanza delle metodologie e tecnologie proprie dell'Informatica. È il primo corso di laurea italiano ad avere ottenuto la certificazione di qualità europea EQANIE. Il laureato in Informatica è in grado di proporre soluzioni moderne, innovative e sostenibili nel settore dell’ICT e riuscirà a mantenersi all'avanguardia rispetto ai costanti progressi scientifici e tecnologici del settore. Il corso ha il fine di preparare laureati che:
+
+abbiano le conoscenze di base ad ampio spettro che permettano loro di specializzarsi per qualsiasi lavoro nell’ambito dei differenti settori dell’informatica, come ad esempio sviluppo di software, reti informatiche, sistemi informativi e applicazioni web, basi di dati, analisi dei dati, sicurezza, entertainment;
+abbiano familiarità con il metodo scientifico di indagine, abbiano buone capacità di modellazione e sappiano comprendere e utilizzare gli strumenti matematici di supporto alle competenze informatiche;
+siano in grado di lavorare in gruppo, di operare con autonomia e di inserirsi prontamente negli ambienti di lavoro, oltre che poter dirigere gruppi di lavoro e aprire nuovi mercati di lavoro e aziende.
+Teoria e Pratica
+
+Nel corso di studi viene dedicato ampio spazio alle discipline fondamentali della scienza informatica. Questi insegnamenti sono strumentali all'acquisizione di nozioni e concetti teorici che consentano di padroneggiare sia le tecnologie attuali che quelle future. Gli insegnamenti teorici sono affiancati da insegnamenti a carattere maggiormente applicativo, che permettono agli studenti di acquisire capacità e competenze immediatamente fruibili.
+
+A partire dal primo anno, infatti, gli studenti frequentano delle sessioni di laboratorio informatico dove, supportati dai docenti, mettono in pratica quanto appreso nelle lezioni di teoria. Inoltre, agli studenti è richiesto di sviluppare dei progetti, anche lavorando in gruppo, come - per esempio - progettare e sviluppare applicazioni web, partecipare a progetti open source, implementare applicazioni che comunichino via rete o modificare specifiche caratteristiche di un sistema operativo.
+
+
+
+---------------------------
+Anno 1
+
+Primo semestre
+
+
+Obbligatorio
+
+Accertamento di lingua inglese - livello b1 (3 CFU)
+
+Crediti: 3
+Ore totali: 0
+Lingua: Italiano
+
+Architettura degli elaboratori i
+
+Crediti: 6
+Ore totali: 60
+Lingua: Italiano
+
+Matematica del continuo
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+Programmazione
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+Secondo semestre
+
+Obbligatorio
+
+Architettura degli elaboratori ii
+
+Crediti: 6
+Ore totali: 60
+Lingua: Italiano
+
+Linguaggi formali e automi
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Logica matematica
+
+Crediti: 6
+Ore totali: 56
+Lingua: Italiano
+
+
+Anno 2
+
+Primo semestre
+Obbligatorio
+
+Algoritmi e strutture dati
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+Basi di dati
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+
+Programmazione ii
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Secondo semestre
+
+Obbligatorio
+
+
+Sistemi operativi
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+Statistica e analisi dei dati
+
+
+Crediti: 6
+Ore totali: 60
+Lingua: Italiano
+
+Anno 3
+
+Primo semestre
+Obbligatorio
+
+Ingegneria del software
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+Reti di calcolatori
+
+Crediti: 12
+Ore totali: 120
+Lingua: Italiano
+
+Attività conclusive
+Aspetti economici, etici, sociali e legali connessi allo svolgimento della professione informatica
+
+Crediti: 3
+Ore totali: 24
+Lingua: Italiano
+
+Tirocinio
+
+Crediti: 15
+Ore totali: 0
+Lingua: Italiano
+
+Prova finale
+
+Crediti: 3
+Ore totali: 0
+Lingua: Italiano
+
+Anno di corso a scelta dello studente
+
+Attività facoltative
+
+Primo semestre
+
+Crittografia i
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Editoria digitale
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Elaborazione dei segnali
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Elaborazione delle immagini
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Fisica
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Linguaggi di programmazione
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Sistemi informativi
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Secondo semestre
+
+Fondamenti di social media digitali
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Gestione dei processi aziendali
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Linguaggi e traduttori
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Programmazione dichiarativa
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Ricerca operativa
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Sicurezza e privatezza
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Sistemi embedded
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Tecnologie e linguaggi per il web
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+Visualizzazione scientifica
+
+Crediti: 6
+Ore totali: 48
+Lingua: Italiano
+
+
+Gli insegnamenti della seguente Tabella 1, dalla quale si dovranno scegliere 12 CFU, possono essere utilizzati dallo studente per completare la propria formazione sia rispetto ai fondamenti fisico-matematici (Fisica, Ricerca operativa), sia rispetto a temi più specifici alle discipline informatiche (Linguaggi di programmazione, Sicurezza e privatezza).
+
+
+
+--------------------------
+
+Sbocchi lavorativi
+
+Il laureato in Informatica triennale trova anche facilmente collocazione nel mondo del lavoro. Le statistiche mostrano come sia raggiunta la piena occupazione ad un anno dalla laurea. Alcune delle attività di cui potrà occuparsi un laureato in Informatica sono:
+
+progettazione e sviluppo di applicazioni operanti su grossi volumi di dati, come - ad esempio per il mercato finanziario o quello pubblicitario;
+progettazione e sviluppo di sistemi e algoritmi per la mobilità, l'organizzazione e la gestione di sistemi complessi;
+progettazione e sviluppo di applicazioni interattive (es. applicazioni web);
+amministrazione dei sistemi e delle reti.
